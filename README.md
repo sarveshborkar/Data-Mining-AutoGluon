@@ -1,4 +1,4 @@
-# AutoGluon 
+# Low Code Data Science using AutoGluon 
 This repository contains Colab notebooks demonstrating the use of AutoGluon for various machine learning tasks, including Kaggle competitions and tabular data processing using Autogluon. Below are the links to the notebooks:
 
 - [IEEE Fraud Detection](https://colab.research.google.com/drive/112jwScJ6ssdGS33VftogSU0UJRaqK9qv?usp=sharing)
